@@ -1,0 +1,13 @@
+	---------HELP FOR DART---------
+
+	-h or --help 				Prints help
+	-v or --version 			Prints version
+	--301     	Players{1,2,3,4}	301 game with 1-4 players
+	--501    	Players{1,2,3,4}	501 game with 1-4 players		
+	--901     	Players{1,2,3,4}	901 game with 1-4 players		
+	--cricket 	Players{1,2,3,4}	cricket game with 1-4 players.
+						cricket with score		
+	--cricket21	Players{1,2,3,4}	cricket game with 1-4 players
+						cricket with no score	
+	--cricketr	Players{1,2,3,4}	reverse cricket game with 1-4 players
+						cricket with scoreing other players

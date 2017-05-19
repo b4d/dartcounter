@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/briskula/!svn/ver/73/src/darts/dartcounter
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/briskula/!svn/ver/70/src/darts/dartcounter/tools.c
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/briskula/!svn/ver/52/src/darts/dartcounter/tools.h
+END
+cricketr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/briskula/!svn/ver/73/src/darts/dartcounter/cricketr.c
+END
+help
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/briskula/!svn/ver/72/src/darts/dartcounter/help
+END
+dart.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/briskula/!svn/ver/63/src/darts/dartcounter/dart.1
+END
+three01.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/briskula/!svn/ver/74/src/darts/dartcounter/three01.c
+END
+cricketr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/briskula/!svn/ver/67/src/darts/dartcounter/cricketr.h
+END
+three01.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/briskula/!svn/ver/45/src/darts/dartcounter/three01.h
+END
+PKGBUILD
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/briskula/!svn/ver/69/src/darts/dartcounter/PKGBUILD
+END
+cricket.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/briskula/!svn/ver/71/src/darts/dartcounter/cricket.c
+END
+cricket21.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/briskula/!svn/ver/73/src/darts/dartcounter/cricket21.c
+END
+cricket.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/briskula/!svn/ver/45/src/darts/dartcounter/cricket.h
+END
+dart.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/briskula/!svn/ver/69/src/darts/dartcounter/dart.c
+END
+cricket21.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/briskula/!svn/ver/64/src/darts/dartcounter/cricket21.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/briskula/!svn/ver/67/src/darts/dartcounter/Makefile
+END
